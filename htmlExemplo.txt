@@ -1,0 +1,62 @@
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <html lang="en"> <head> <title> Título aqui</title> <meta http-equiv="expires" content="0">
+<html>
+
+<head>
+
+</head>
+</script> <div id="ezf12877258" style="display:none"><div class="sk-zero-footprint sk-skip-in-preview"><large>HTML Snippet - Click to edit and add HTML code. Personalize your website!</large><br>Rollover to edit</div></div> <html> <head> <style>
+    .body {
+  background-color: #000000;
+ padding-bottom:10px;
+ padding-left: 4px;
+  padding-top:12px 
+}
+    p.dotted {border-style: dotted;}
+    .banner {
+    padding-left: 500px;
+    
+    }
+ .button{ 
+-webkit-box-shadow: rgba(0, 0, 0, 0.0.97) 0px 1px 0px 0px; 
+background-color: #5B74A8; 
+border: 1px solid #29447E; 
+font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif; 
+font-size: 12px; 
+font-weight: bold; 
+padding: 2px 6px; 
+height: 28px; 
+color: #fff; 
+border-radius: 5px; 
+} 
+.tb8 { 
+width: 230px; 
+border: 1px solid #3366FF; 
+border-left: 4px solid #3366FF; 
+    -moz-border-radius: 10px; 
+    -webkit-border-radius: 10px; 
+    border-radius: 10px; 
+    border: 1px solid; 
+}    
+    
+    
+    .p {
+      background-color:#2F4F4F; 
+        margin=left: 250px;
+    }
+    
+    table{
+      margin-left:100px;
+      background-color: #000000 
+    }
+  </style> </head> <body class = "body"> <p class = "p"> <a href="http://validador.ipv6.br/index.php?lang=pt&site=google.com.br&uri=referer"><img  alt="Este S&iacute;tio Web &eacute; acess&iacute;vel via IPv6!" src="http://validador.ipv6.br/imgBani/banipv65branco.png"></a> </p> <table style = "widh:100%" class = "body"> <tr> <td><a target="_blank" href="http://www.upviral.com.br/20792"> <img src="http://www.upviral.com.br/imagens/banner2.gif" width="500" height="90" border="0" alt="1.000.000 de visitas"> </a></td> <td> <a href='https://traffup.net/free/?rf=415949430'><img src='https://traffup.net/banners/hor72090b102.jpg' border='0' alt='Free Website Visitors'/></a> </td> <td> <a href="http://validador.ipv6.br/index.php?lang=pt&site=google.com.br&uri=referer"><img alt="Este S&iacute;tio Web &eacute; acess&iacute;vel via IPv6!" src="http://validador.ipv6.br/ipv6-globo.php"></a> </td> </tr> </table> <h2><marquee> RSS http://ltdanect.co.nf/conteudo.xml</marquee></h2> <p> <iframe data-aa='1010371' src='//ad.a-ads.com/1010371?size=120x60' scrolling='no' style='width:120px; height:60px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe></p> <center> <h2 class = "body"><font color="red"><a href="https://gifszap.blogspot.com/" target="_blank">Emojis e capas p/ rede social</a></font></h2> <section class = "body"> <iframe src="https://giphy.com/embed/piJYOc3RIKDKKFiVS9" width="480" height="117" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/piJYOc3RIKDKKFiVS9">via GIPHY</a></p> </section> <br /><br /><br /> <br /> </center> <script id="_wau5xx">var _wau = _wau || []; 
+_wau.push(["tab", "wv4ztmm1ke4l", "5xx", "left-middle"]); 
+(function() {var s=document.createElement("script"); s.async=true; 
+s.src="http://widgets.amung.us/tab.js"; 
+document.getElementsByTagName("head")[0].appendChild(s); 
+})();</script> </form></div> </div> <section> <article> <header> <h2></h2> <p class = "dotted">Publicado em <time datetime="2018-08-11 21:00"> 11 de agosto de 2018 </time> por <a href="http://biw7.co.nf/"> minisonos-mix&br-cx </a> - <a href="http://biw7.co.nf/"> </a></p> </header> </section> <script>
+.tab {
+    border-style: solid;
+    border-width: 5px;
+</script> <table> <tr> <th class = "tab"> <iframe width="496" height="344" src="https://canais.gratis/embed/128696632" frameborder="0" allowfullscreen seamless></iframe><p><a href="https://canais.gratis/assistir-premiere-clubes-online-24-horas-ao-vivo_128696632.html">Assistir Premiere - Clubes - Online - 24 Horas - Ao Vivo</a></p> </th> <th> <iframe width="496" height="344" src="https://canais.gratis/embed/047ffcc14" frameborder="0" allowfullscreen seamless></iframe><p><a href="https://canais.gratis/assistir-multishow-online-24-horas-ao-vivo_047ffcc14.html">Assistir Multishow - Online - 24 Horas - Ao Vivo</a></p> </th> </tr> </table> <br> <p> <a href ="https://canais.gratis/index.html">Canais.gratis TM acesse IPTV </a> </p> </body> </div>
+
+</html>

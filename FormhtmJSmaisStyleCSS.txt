@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+     <title>Dados para Cadastro</title>
+  </head>
+  <body class = "background" >
+     <form action="">
+        <fieldset>
+           <legend>Dados para Cadastro</legend>
+           <label for="nome">Nome:</label> 
+           <input type="text" name="nome" id="nome" /><br />
+           <label for="tipo">Tipo:</label> 
+           <input type="text" name="tipo" id="tipo" /><br />
+           <label for="data">Data:</label>
+           <input type="text" name="data" id="data" /><br />
+           <input type="submit" value="enviar" />
+        </fieldset>
+     </form>
+  
+  <br>
+  <p  class ="logo">
+ 
+  </p>
+  </body>
+  
+  
+  
+</html>
+-----------------------------------------------
+
+.background {
+  background-color: blue; 
+  font-size:;
+  }
+
+
+form input, form label, form legend {
+  font-size: 11px;
+  color: white;
+}
+
+form input {
+  border: solid #ccc thin;
+  font-family: 'Trebuchet MS', Verdana, Tahoma, serif;
+  width: 100%;
+  color: black;
+  
+}
+
+form input[type="submit"] {
+  display: block;
+  float: right;
+  margin-top: 13px;
+  width: auto;
+  color: black;
+}
+form fieldset, form legend {
+  border: solid black thin;
+  margin: 10px;
+  padding: 6px;
+  color:black;
+  
+}
+form fieldset {
+  width: 40%;
+}
+form label {
+  display: block;
+}
+form legend {
+  background-color: #e8e8e8;
+  font-weight: bold
+  color: white;
+  }
+
+
+
+
+

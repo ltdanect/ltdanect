@@ -1,0 +1,295 @@
+<html lang="pt-BR"> 
+<head> 
+<title>Biwxx&amp;Minisonos-mix - $services$</title> 
+<meta name=" palavras-chave"    content=""> 
+<meta name="description" content=""> 
+<meta property="og:url" content="http://biw7.co.nf/network.html"> 
+<meta property="og:title" content="$services$"> 
+<meta http-equiv="last-modified" content="2018-10-10 @ 03:34:02 UTC"> 
+<link rel="canonical" href="http://biw7.co.nf/network.html">
+
+
+body{
+background-color: white;
+}
+footer {
+        margin-left:220px;      
+      }
+.margem {
+   margin-left:150px;
+ }
+ 
+  
+.menu,
+.sub-menu {
+    padding: 0;
+    width: 205px;
+        position:fixed;    
+}
+
+
+.clearfix:after{
+    content: '.';
+    display: block;
+    clear: both;
+    height: 0;
+    line-height: 0;
+    font-size: 0;
+    visibility: hidden;
+    overflow: hidden;
+}
+.menu,
+.sub-menu {
+    list-style: none;
+    background: #000;
+}
+.sub-menu {
+    background: #444;
+}
+.menu a {
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.menu li {
+    position: relative;
+        cursor:pointer;    
+}
+.menu > li {
+    float: left;
+}
+.menu > li:hover {
+    background: #444;
+}
+.menu li:hover > .sub-menu {
+    display: block;
+}
+.sub-menu {
+    display: none;
+    position: absolute;
+    
+}
+.sub-menu li:hover {
+    background: #555;
+}
+
+      
+
+
+.sec1 {
+   background-color: black;
+   
+}
+.sec2 {
+  background-color: grey;
+  
+}
+
+* {box-sizing: border-box;}
+body {font-family:  sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin-left: 430px;
+}
+
+
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 10; 
+    padding-top: 100px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: hidden; 
+   
+}
+
+.modal-content {
+    background-color: grey;
+    color: white;    
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}  
+
+ .margem2 {
+  margin-bottom: 5px;
+  margin-left:50px;
+  
+} 
+</style> </head> <body> <header> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="shortcut icon" type="image/x-icon" href="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/26165791_1862987607108160_9131967519351050472_n.jpg?_nc_cat=102&amp;oh=72e55f62c4801962c8576df568de8cbf&amp;oe=5C622391"> <link rel="icon" type="image/png" href="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/26165791_1862987607108160_9131967519351050472_n.jpg?_nc_cat=102&amp;oh=72e55f62c4801962c8576df568de8cbf&amp;oe=5C622391"> </header> <div align= "right"> <a href="https://www.facebook.com/biwcg"> <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Facebook_Home_logo_old.svg"
+
+          style="width:4%"> </a> <a href="https://twitter.com/biwcg7x"> <img
+
+          src="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/2000px-Twitter_2012_logo.svg.png/revision/latest?cb=20120608112551"
+
+          style="width:4%"></a> </div> <br> <div class = "margem"> <ul class="menu clearfix"> <li><a href="http://biw7.co.nf/">Inicio</a></li> <li><a id="a">Contato</a></li> <li><a href ="#">RSS</a> <ul class="sub-menu clearfix"> <li><a href="http://feeds.feedburner.com/Minisonosmix-WcarlosBiwxx">FeedBurner</a> <ul class="sub-menu"> <ul class="sub-menu"> </ul> </ul> </li> <li><a href="http://ltdanect.co.nf/conteudo.xml">XML</a></li> </ul> </li> </ul> </div> <div id="caixa" class="modal"> <div class="modal-content"> <span class="close">&times;</span> <h>
+Telegram:<a href="https://telegram.me/biwxx"> @biwxx </a><br>
+    e-mail:minisonosmix@yandex.com </h> </div> </div> <script> 
+ var modal = document.getElementById('caixa');
+var a = document.getElementById("a");
+var span = document.getElementsByClassName("close")[0];
+a.onclick = function() {
+    modal.style.display = "block";
+}
+
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script> <br> <table margin-top:="" 100px;=""> <tbody> <tr> <th> <p> <iframe data-aa="1010371" src="//ad.a-ads.com/1010371?size=120x60"
+
+                scrolling="no" style="width:120px; height:60px; border:0px; padding:0;overflow:hidden"
+
+                allowtransparency="true"></iframe></p> <br> </th> </tr> </table> <table> <tr> <th> <a target="_blank" href="http://www.upviral.com.br/20792"> <img
+
+                src="http://www.upviral.com.br/imagens/banner1.gif" alt="1.000.000 de visitas"
+
+                width="468" height="60" border="0"> </a> </th> <th> <div style="text-align:center;"> <a target="_blank" href="http://www.cursos24horas.com.br/parceiro.asp?cod=promocao133256&amp;url=cursos/informatica"
+
+                rel="nofollow"><img alt="Cursos Online na Área de Informática" style="border:none;"
+
+                  src="http://www.cursos24h.net.br/banners/areas/informatica/gif/468x60.gif"
+
+                  width="468" height="60"></a><br> <a target="_blank" style="font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#028ACC; text-decoration:none;"
+
+                href="http://www.cursos24horas.com.br/parceiro.asp?cod=promocao133256"
+
+                rel="nofollow">Cursos Online 24 Horas</a> </div> </th> </tr> <tr> <th> <a href="http://www.addme.com/submission/free-submission-start.php">Local
+              Business Directory, Search Engine Submission &amp; SEO Tools</a> </th> </tr> </table> <p> <iframe data-aa="1010371" src="//ad.a-ads.com/1010371?size=120x60" scrolling="no"
+
+        style="width:120px; height:60px; border:0px; padding:0;overflow:hidden"
+
+        allowtransparency="true"></iframe></p> <br> <section class="sec1"> <div class="slideshow-container"> <div class="mySlides fade"> <div class="numbertext">1 / 4</div> <img src="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/42681059_1142909089217611_9047771062007234560_n.jpg?_nc_cat=109&amp;oh=ec7045f53cbd8bf525f1292bfa0aa01e&amp;oe=5C1DABE4"
+
+            alt="Fracassado" width="280" height="220"> </div> <div class="mySlides fade"> <div class="numbertext">2 / 4</div> <img src="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/37403466_1082399845268536_2829334187553587200_n.jpg?_nc_cat=100&amp;oh=2a0cb0ad128ae88cb69348d8b5089737&amp;oe=5C1C7CB8"
+
+            alt="Trojan Horse memes" width="380" height="220"> </div> <div class="mySlides fade"> <div class="numbertext">3 / 4</div> <img src="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/30741825_1017282891780232_8134342860880216064_n.png?_nc_cat=109&amp;oh=4cab9841194e551637462d741b8f602f&amp;oe=5C203153"
+
+            alt="PC master race na DW" width="380" height="220"> </div> <div class="mySlides fade"> <div class="numbertext">4 / 4</div> <img src="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/42435050_905677856291004_1621776618722689024_n.jpg?_nc_cat=110&amp;oh=f21565a8ca0e93b1de1b14eb77fb367f&amp;oe=5C15F402"
+
+            alt="DNS servers meme" width="270" height="220"> </div> </div> <br> <div style="text-align:center"> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> </div> <script type="text/javascript">
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";  
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script></section> <br> <table style="width:100%"> <tbody> <tr> <th> <iframe src="https://giphy.com/embed/tHWBxufRIehLW6VR8p" class="giphy-embed"
+
+              allowfullscreen="" width="480" height="480" frameborder="0"></iframe> <p><a href="https://giphy.com/gifs/cookies-biw7-w-carlos-giovanetti-tHWBxufRIehLW6VR8p">via
+                GIPHY</a></p> </th> <th><iframe src="https://giphy.com/embed/w6bOu3NIkBRiSOLO6c" class="giphy-embed"
+
+              allowfullscreen="" width="446" height="480" frameborder="0"></iframe> <p><a href="https://giphy.com/gifs/w6bOu3NIkBRiSOLO6c">via GIPHY</a></p> </th> <th> <iframe src="https://giphy.com/embed/13PNcBMM40jek8" class="giphy-embed"
+
+              allowfullscreen="" width="480" height="480" frameborder="0"></iframe> <p><a href="https://giphy.com/gifs/13PNcBMM40jek8">via GIPHY</a></p> </th> </tr> </tbody> </table> <br> <br> <br> <h2 class="sec2" id="contato"> <img src="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/26165791_1862987607108160_9131967519351050472_n.jpg?_nc_cat=102&amp;oh=72e55f62c4801962c8576df568de8cbf&amp;oe=5C622391"
+
+        style="width:7%"> Telegram:<a href="https://telegram.me/biwxx"> @biwxx </a>
+      ? E-mail: minisonosmix@yandex.com <a href="https://www.facebook.com/biwcg"> <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Facebook_Home_logo_old.svg"
+
+          style="width:4%"> </a> <a href="https://twitter.com/biwcg7x"> <img
+
+          src="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/2000px-Twitter_2012_logo.svg.png/revision/latest?cb=20120608112551"
+
+          style="width:4%"></a> <br> </h2> <br> <p class="dotted">Publicado em <time datetime="2018-09-28 00:03"> 28 de
+        Setembro de 2018 </time> por <a href="http://biw7.co.nf/">
+        minisonos-mix&amp;br-cx </a> </p> <footer> Biw7.co.nf - Minisonos-mix © por W.Carlos biwxx Hosted by Biz</footer> </body> </div></div> </div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="fm-tr"><div id="sk_004_cell" class="fm-td" align="left"><div id="sk_004"><div class="fm-t" style="width: 100%;"> <div class="fm-td" style="vertical-align: top;" align="left"> <div class="fm-t" style="width: 100%;"> </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div> <div id="sk-lightbox-wrapper"> <div id="sk-lightbox-overlay"></div> <div id="sk-lightbox-ui"> <div id="sk-lightbox-close"> <a href="javascript:void(0);">close lightbox</a> </div> <iframe id="sk-lightbox-iframe" width="100%" height="100%" frameborder="0"></iframe> <div id="sk-lightbox-image-wrapper" style="display:none"> <div id="sk-lightbox-image"></div> </div> <div id="sk-lightbox-dom" style="display:none"> </div> </div> <!-- Load react DOM with "defer" - prevent execution until DOM ready --> <script type="text/javascript" src="https://unpkg.com/react-dom@16.4.0/umd/react-dom.production.min.js" defer></script> </body> </html> <!-- SK - [6fa2cc5] [shard:0] --><!-- [vm-web2-zo][520311911842830][417] --><!-- Total Time: 7ms 828mcrs(10ms/0s), MatchURL:0s(1/1), RBA:4ms(1/1), Cache Get:2ms(4/4), RDAM:0s(0/0)-->

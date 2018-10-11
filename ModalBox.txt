@@ -1,0 +1,34 @@
+<div id="caixa" class="modal"> <div class="modal-content"> <span class="close">&times;</span> <h>
+Telegram:<a href="https://telegram.me/biwxx"> @biwxx </a><br>
+    e-mail:minisonosmix@yandex.com </h> </div> </div> 
+
+
+//**Javascript aqui
+<script>
+var modal = document.getElementById('caixa');
+var a = document.getElementById("a");
+var span = document.getElementsByClassName("close")[0];
+a.onclick = function() {
+    modal.style.display = "block";
+}
+
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script> 
+**//
+
+
+
+
+//*****
+Chamando JS no menu:
+<li><a id="a">Contato</a></li>
+******// 
